@@ -11,8 +11,7 @@ exercise-1-html-css-personal-page/
 ├── index.html          ← page content (edit your details here)
 ├── styles.css          ← all styling and responsive rules
 ├── images/
-│   ├── profile.jpg     ← your profile photo
-│   └── favicon.svg     ← browser tab icon
+│   └── profile.jpg     ← your profile photo
 └── README.md
 ```
 
